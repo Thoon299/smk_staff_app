@@ -1,0 +1,14 @@
+import 'package:equatable/equatable.dart';
+
+abstract class ProfileEvent extends Equatable{
+  const ProfileEvent();
+  @override
+  List<Object> get props=>[];
+}
+
+// class ProfileStart extends ProfileEvent{}
+
+class FetchProfile extends ProfileEvent{
+
+  FetchProfile();
+}

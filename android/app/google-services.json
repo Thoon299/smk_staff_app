@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "662313365055",
+    "firebase_url": "https://schoolsmk-97cb6-default-rtdb.firebaseio.com",
+    "project_id": "schoolsmk-97cb6",
+    "storage_bucket": "schoolsmk-97cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662313365055:android:acb96fa014037c16ec928a",
+        "android_client_info": {
+          "package_name": "com.staff.smk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662313365055-t8oburvn9niavu7j1diu18tj8bm43eqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJGcK-CDgc-WJEgJXX1LPPAavSZvdGfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662313365055-t8oburvn9niavu7j1diu18tj8bm43eqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662313365055-p92jmujct958p7j8s3pq93fvhq756nbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
